@@ -8,7 +8,7 @@
 
 ---
 
-  * 🔭 I am Currently working as **Sr. Machine Learning Engineer** at [ExponentialAI](https://exponentialai.com/)
+  * 🔭 I am Currently working as **Sr. Machine Learning Engineer** at [Turing]()
 
   - 🌱 I’m currently Learning GenAI Advanced Production ready deployment pipeline😎.
   
